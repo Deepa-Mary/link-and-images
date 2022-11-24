@@ -1,0 +1,19 @@
+*
+{
+    background-color:antiquewhite;
+}
+h1
+{
+color:blue;
+}
+p{
+    font-family:cursive;
+    font-size:large;
+    color: rgb(32, 51, 114);
+}
+img
+{
+    height:400px;
+    width:600px;
+    border-radius:10px;
+}

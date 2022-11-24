@@ -1,0 +1,26 @@
+h1
+{
+color:blue;
+}
+h2
+{
+    color:#7d003c;
+}
+h3
+{
+color:rgb(255, 111, 0);
+}
+h4
+{
+ color:hsl(0,50%,40%); 
+}
+div
+{
+ background-color:#d2a9bd ;  
+ color:red; 
+}
+*
+{
+background-color:antiquewhite;
+
+}
